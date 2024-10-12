@@ -1,6 +1,6 @@
 # sprint-2
 
-##Declarar las variables
+## Declarar las variables
 
 La longitud de piscina 1 vale 300
 El ancho de piscina 1 vale 150
