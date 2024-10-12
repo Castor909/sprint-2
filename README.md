@@ -2,19 +2,19 @@
 
 ## Declarar las variables
 
-La longitud de piscina 1 vale 300
-El ancho de piscina 1 vale 150
-La profundidad de piscina 1 vale 20
+La longitud de piscina 1 vale 300<br>
+El ancho de piscina 1 vale 150<br>
+La profundidad de piscina 1 vale 20<br>
 
-La longitud de piscina 2 vale 300
-El ancho de piscina 2 vale 80
-La profundidad de piscina 2 vale 35
+La longitud de piscina 2 vale 300<br>
+El ancho de piscina 2 vale 80<br>
+La profundidad de piscina 2 vale 35<br>
 
 ## Resolver los problemas
 
 ### 1. Áreas de las piscinas
-Multiplicar la longitud de piscina 1 por el ancho de piscina 1 y mostrar el resultado
-Multiplicar la longitud de piscina 2 por el ancho de piscina 2 y mostrar el resultado
+Multiplicar la longitud de piscina 1 por el ancho de piscina 1 y mostrar el resultado<br>
+Multiplicar la longitud de piscina 2 por el ancho de piscina 2 y mostrar el resultado<br>
 
 ### 2. Volúmenes de las piscinas
 Multiplicar la longitud de piscina 1 por el ancho de piscina 1 por la profundidad de piscina 1 y mostrar el resultado
